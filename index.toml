@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "7ad922cf388f9ad5fa9550f9c63ec8fdaf80e833f4f09dfd97e64a1a5a33a743"
 
 [[files]]
-file = "__pycache__/gather_metadata.cpython-313.pyc"
-hash = "73d2fff06f30d60050cbb73a5ac80364600a8e02e2c1836b904d8265e3e34557"
-
-[[files]]
 file = "config/biomeswevegone/mob_spawn.json"
 hash = "0414d3dd85e15616c6d52020dc9331d03e1ee8e1b98622573cda568d842d9eb6"
 
