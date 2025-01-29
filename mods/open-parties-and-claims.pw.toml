@@ -1,0 +1,13 @@
+name = "Open Parties and Claims"
+filename = "open-parties-and-claims-neoforge-1.21.1-0.23.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/TC59zldB/open-parties-and-claims-neoforge-1.21.1-0.23.7.jar"
+hash-format = "sha512"
+hash = "6fe565d700237af8084963c4a7f89441ab114843db7f97b7d47ba74c0095187c5bcfe3704c888bd76b65420e08184992e20bb977ed6cf6f573ac30b03f5d9d51"
+
+[update]
+[update.modrinth]
+mod-id = "gF3BGWvG"
+version = "TC59zldB"

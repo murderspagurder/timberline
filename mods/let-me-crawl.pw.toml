@@ -1,0 +1,13 @@
+name = "Crawl"
+filename = "let-me-crawl-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y7WvlnCO/versions/l4QdmlVX/let-me-crawl-0.1.jar"
+hash-format = "sha512"
+hash = "92b1971182ee0561798ecc5a4eec149d341c92bdf460caa3ba7a00381463c889991de08e85d8f34c06b917a62c9788182f8222e7f407d3445a5da365c2b4bc19"
+
+[update]
+[update.modrinth]
+mod-id = "Y7WvlnCO"
+version = "l4QdmlVX"

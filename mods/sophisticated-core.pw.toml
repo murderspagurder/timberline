@@ -1,0 +1,13 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.1.6.840.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/mCNIfx89/sophisticatedcore-1.21.1-1.1.6.840.jar"
+hash-format = "sha512"
+hash = "7ba33e7958ec6925bd566a26cef61aac6a26561743f88b8bec3957d230ee7f520fb76efcab088d2f6b806c6710b80a1211c9ea1690d8fbb4e992c33578e69c98"
+
+[update]
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "mCNIfx89"

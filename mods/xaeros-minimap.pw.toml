@@ -1,0 +1,13 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_25.0.0_NeoForge_1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/lXE3GSmk/Xaeros_Minimap_25.0.0_NeoForge_1.21.jar"
+hash-format = "sha512"
+hash = "71989159fa14affd4bd2d4c29556e9405ea5c01334b457a99934061d0308ff6fbfe108f55d3278acfa41fc0bd9d7b77aaa282122664ac473c438613830e11d8d"
+
+[update]
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "lXE3GSmk"

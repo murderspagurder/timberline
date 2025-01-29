@@ -1,0 +1,13 @@
+name = "Sparse Structures"
+filename = "sparsestructures-neoforge-1.21.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwvI41y9/versions/PRy5gl7E/sparsestructures-neoforge-1.21.1-2.2.0.jar"
+hash-format = "sha512"
+hash = "729de95d662c3eccd00de2658898fc4756a51b9cb5d1e03cc929261ffc08cf1753ed54c8757c5934f880804365692668230df6a248a4e39bd4030d6c10bbdb98"
+
+[update]
+[update.modrinth]
+mod-id = "qwvI41y9"
+version = "PRy5gl7E"

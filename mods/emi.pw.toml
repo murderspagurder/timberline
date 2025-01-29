@@ -1,0 +1,13 @@
+name = "EMI"
+filename = "emi-1.1.19+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/BzqWNbLp/emi-1.1.19%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "a8f80a228401099a7be80eeb9b7b31fa595a1b4a9d10c8b85ab5d9c31efe23ce06a8ee52af299f7f82f3d929b23cab95de0f784eb0d1203ca93d2e343946205e"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "BzqWNbLp"

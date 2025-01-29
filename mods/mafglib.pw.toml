@@ -1,0 +1,13 @@
+name = "MaFgLib"
+filename = "MaFgLib-0.2.2-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKI34J7B/versions/hV4oaCno/MaFgLib-0.2.2-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "3da81cf059dead2ae8d1a792a099dd38c495aed4a89c11f08e87d6605ba637a462fd7c23f8c4eb4d6367315b3c697458f9a34a072bcca450d5138c5f13a07f88"
+
+[update]
+[update.modrinth]
+mod-id = "SKI34J7B"
+version = "hV4oaCno"

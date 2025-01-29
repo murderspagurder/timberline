@@ -1,0 +1,16 @@
+name = "timberline"
+author = "murder_spagurder"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9e102fa7416fadec0eefc9bcbf1de214d041dcd49fd15666bc006e5a85065e68"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.115"
+
+[options]
+datapack-folder = "config/paxi/datapacks"
